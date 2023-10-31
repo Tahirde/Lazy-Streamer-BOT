@@ -13,10 +13,10 @@
       "media",
       "bot"
     ],
-  "repository": "https://github.com/LazyDeveloperr/Lazy-Streamer-BOT",
+  "repository": "https://github.com/Tahirde/Lazy-Streamer-BOT",
   "success_url": "/",
-  "logo": "https://telegra.ph/file/f2c253c5b0b747042cf4c.png",
-  "website": "http://t.me/LazyDeveloper",
+  "logo": "https://graph.org/file/0653bc72745810a48fc82.png",
+  "website": "nothing",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
